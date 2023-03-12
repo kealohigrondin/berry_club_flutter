@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "472709442599",
+    "project_id": "berryclub",
+    "storage_bucket": "berryclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472709442599:android:ae9078768533021dc5f202",
+        "android_client_info": {
+          "package_name": "com.example.berry_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472709442599-0nkcs3qb8ir980p67grh54e9g7tc9h8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLnHNQLHm3TCOjrP0Iu2gTn5fDZK7F_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472709442599-0nkcs3qb8ir980p67grh54e9g7tc9h8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472709442599-3ct5sgd17q417ssub6mq1hr34m0dcf1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.berryClub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

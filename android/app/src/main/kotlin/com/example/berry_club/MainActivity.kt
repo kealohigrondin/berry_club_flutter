@@ -1,4 +1,4 @@
-package com.example.berry_club_flutter
+package com.example.berry_club
 
 import io.flutter.embedding.android.FlutterActivity
 

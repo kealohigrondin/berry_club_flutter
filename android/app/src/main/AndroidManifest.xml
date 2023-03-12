@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.berry_club_flutter">
+    package="com.example.berry_club">
    <application
-        android:label="berry_club_flutter"
+        android:label="berry_club"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

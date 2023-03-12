@@ -1,6 +1,6 @@
 {
-    "name": "berry_club_flutter",
-    "short_name": "berry_club_flutter",
+    "name": "berry_club",
+    "short_name": "berry_club",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
